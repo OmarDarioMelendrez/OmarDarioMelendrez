@@ -7,8 +7,8 @@
 
 - ⚡ Fun fact **I think the new technologies are my netflix**
 
-- About me:
-- I'm a frontend developer passionate about implementing web solutions, I like to always be looking at new technologies when I'm not improving the ones I already know how to use, so I'm sure I can bring all my passion and ideas to a team.
+- **About me:**
+I'm a frontend developer passionate about implementing web solutions, I like to always be looking at new technologies when I'm not improving the ones I already know how to use, so I'm sure I can bring all my passion and ideas to a team.
 
 Currently the technologies I use are Html, css, sass, styled components and javascript with the library React.js and for static sites I use Gatsby.js
 
