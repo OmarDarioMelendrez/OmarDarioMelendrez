@@ -6,7 +6,7 @@
 - 📫 Si quieres contactarme **melendrezomar2@gmail.com**
 
 -  👻 Mi sitio web donde pueden ver algunos de mis proyectos es:
-  <a href="https://omardario.online" target="blank> Portfolio </a>
+<a href="https://omardario.online" target="blank > Portfolio </a>
 
 
 - **About me:**
