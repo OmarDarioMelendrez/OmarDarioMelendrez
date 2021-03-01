@@ -14,7 +14,7 @@
 
 Actualmente me encuentro en la búsqueda de mi primer experiencia en un equipo de desarrollo, pero mientras tanto sigo mejorando mis skills y aprendiendo nuevos para poder dar lo mejor de mí en cada proyecto que decida encarar.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectemos en Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-dario-melendrez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/omar-dario-melendrez/" height="30" width="40" /></a>
 </p>
