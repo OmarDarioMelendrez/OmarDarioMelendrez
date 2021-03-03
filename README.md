@@ -8,7 +8,7 @@
 -  👻 Mi sitio web donde pueden ver algunos de mis proyectos es: https://omardario.online
 
 
-- **About me:**
+- **Sobre mí:**
 
 👨‍💻 Soy una persona apasionada por lo que hago y nunca paro de aprender y mejorar mis habilidades, me gusta mucho saber y poder hacer una diferencia.
 
