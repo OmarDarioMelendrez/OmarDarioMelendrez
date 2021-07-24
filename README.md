@@ -7,7 +7,6 @@
 
 - Mi sitio web donde pueden ver algunos de mis proyectos es: https://omardario.online
 
--  
 
 
 - **Sobre mí:**
