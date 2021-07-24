@@ -1,18 +1,26 @@
 <h1 align="center">Hola soy Omar Dario Melendrez</h1>
-<h3 align="center">Soy un Fullstack developer Junior</h3>
+<h3 align="center">Soy un Fullstack Developer</h3>
 
-- 🐱‍👤 Actualmente me encuentro aprendiendo **Node.js!**
+- 👤 Actualmente me encuentro especializandome en **Backend.**
 
 - 📫 Si quieres contactarme **melendrezomar2@gmail.com**
 
--  👻 Mi sitio web donde pueden ver algunos de mis proyectos es: https://omardario.online
+- Mi sitio web donde pueden ver algunos de mis proyectos es: https://omardario.online
+
+-  
 
 
 - **Sobre mí:**
 
-👨‍💻 Soy una persona apasionada por lo que hago y nunca paro de aprender y mejorar mis habilidades, me gusta mucho saber y poder hacer una diferencia.
-
-Actualmente me encuentro en la búsqueda de mi primer experiencia en un equipo de desarrollo, pero mientras tanto sigo mejorando mis skills y aprendiendo nuevos para poder dar lo mejor de mí en cada proyecto que decida encarar.
+👨‍💻 Me dediqué a la industria gráfica durante 6 años.
+Comencé a programar por hobby de manera autodidacta y
+decidí cambiar mi carrera para dedicarme al desarrollo de Software.
+Durante mis proyectos personales adquirí mucha experiencia , la cual
+profesionalicé al realizar un Coding Bootcamp de programación, donde
+dediqué más de 800 hs, implementando tecnologías como JavaScript
+y React.
+Gracias a mi experiencia y capacidad, puedo participar pro activamente
+en proyectos con buenas prácticas de desarrollo y mucho entusiasmo.
 
 <h3 align="left">Conectemos en Linkedin:</h3>
 <p align="left">
