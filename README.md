@@ -19,6 +19,7 @@ Durante mis proyectos personales adquirí mucha experiencia , la cual
 profesionalicé al realizar un Coding Bootcamp de programación, donde
 dediqué más de 800 hs, implementando tecnologías como JavaScript
 y React.
+
 Gracias a mi experiencia y capacidad, puedo participar pro activamente
 en proyectos con buenas prácticas de desarrollo y mucho entusiasmo.
 
