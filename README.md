@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Omar Dario Melendrez</h1>
 <h3 align="center">Soy un Fullstack Developer</h3>
 
-- 👤 Actualmente me encuentro especializandome en **Backend.**
+- 👤 Actualmente me encuentro profundizando conocimiento de webScraping.
 
 - 📫 Si quieres contactarme **melendrezomar2@gmail.com**
 
